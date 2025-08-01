@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "winclub-d1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f364d3f2-15dd-4f85-b45b-68637315f478",
+      "database_name": "d1-winclub-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
